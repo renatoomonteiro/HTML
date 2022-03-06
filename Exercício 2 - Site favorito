@@ -1,0 +1,15 @@
+<!--Exercício 2: Site favorito
+
+Exercício 2: Construa uma página HTML que contenha um link para seu site favorito-->
+
+<html>
+<title>Exercício 2: Site favorito</title><br>
+<meta charset="UTF-8">
+<head>Meu site favorito
+</head>
+<body>
+<b>Link logo abaixo</b>
+<a href='https://www.google.com.br'>Link</a>
+</body>
+
+</html>
