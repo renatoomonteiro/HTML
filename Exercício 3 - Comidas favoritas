@@ -1,0 +1,29 @@
+<!--Exercício 3: Comidas favoritas
+
+Exercício 3: Construa uma página HTML contendo uma lista de suas 5 comidas preferidas-->
+<html>
+
+<title>Exercício 3: Comidas favoritas</title><br>
+
+<head>Exercício 3: Construa uma página HTML contendo uma lista de suas 5 comidas preferidas</head><br>
+
+<body>
+
+<ol> <!-- <ol> = Lista Ordenada 
+		          <li> = Lista de Itens com numeração
+				  <li>Item 1</li>
+				  <li>Item 2</li>
+		</ol>
+		
+		<ul> <!-- <ul> = Lista Desordenada 
+		          <ul> = Lista desordenada, com as bolinhas-->
+				<li>Arroz;</li>
+				<li>Feijão;</li>
+				<li>Bife;</li> 
+				<li>Salada;</li>
+				<li>Batata doce;</li> 
+</ol>
+
+</body>
+
+</html>
