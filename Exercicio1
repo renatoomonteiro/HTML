@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Exercício 1</title>
+</head>
+
+<body>
+<header><h1>Construa uma página HTML que mostre na tela seu nome completo em negrito, quebre a linha e mostre sua idade</h1></header>
+<p><b>Renato de Oliveira Monteiro</b></p><br>Idade: 40
+</body>
+</html>
