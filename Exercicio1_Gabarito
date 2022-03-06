@@ -1,0 +1,13 @@
+Exercício 1: Nome e idade
+Gabarito do Exercício 1
+
+<html>
+  <head>
+    <title>Nome e Idade</title>
+    <meta charset="UTF-8">
+   </head>
+   <body>
+    <b>Renato de Oliveira Monteiro</b><br>
+    Idade: 40 anos    
+   </body>
+</html>
