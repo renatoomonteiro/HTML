@@ -1,0 +1,20 @@
+<!--Exercício 4: Currículo
+
+Exercício 4: Faça uma página que represente seu currículo, contendo seus dados pessoais, uma lista de características positivas, e links para os sites de duas empresas que você já trabalhou-->
+
+<html>
+<title>Exercício 4: Currículo</title><br>
+<meta charset="UTF-8">
+<head>Currículo</head></br>
+<body>
+	<section><p>Estou lembrando de <b>HTML</b>.<br>
+	<ol> Lista de minhas características positivas
+				<li>Disposição para aprender;</li>
+				<li>Interessado em TI;</li>
+				<li>Bom relacionamento com a equipe de trabalho;</li>
+				<li>Compromissado com a missão da empresa;</li>
+	</ol>
+			<a href='https://www.extra.com.br'>Extra</a><br>
+            <a href='https://www.correios.com.br/'>Correios</a><br>	
+</body>
+</html>
