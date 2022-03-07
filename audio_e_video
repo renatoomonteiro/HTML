@@ -1,0 +1,65 @@
+<!--
+Parâmetros
+autoplay: começa a música logo que a página é carregada;
+controls: play, pause, volume, progresso e velocidade de reprodução;
+loop: repetição;
+muted: silêncio;
+preload (auto, metadata, none): Obra, metadados, extra;
+src: referência do arquivo
+width: Largura da barra
+
+Áudios com diferentes suportes de acordo com o navegador
+
+<audio controls>
+<source src="src/rushus-modal_blues.mp3" type="audio/mpeg" />
+
+<source src =  "src/rushus-modal_blues.ogg" type="audio/ogg">
+Se navegador não suporta a tag áudio
+
+Para vídeo, basta alterar a tag para video, exemplo:
+
+<video src="video.mp4" width="400" controls> </video>
+
+Parâmetros dos vídeos
+
+autoplay: início imediato;
+controls: controles de volume, progresso, play, pause e velocidade;
+height: Altura;
+loop: repetição;
+muted: deixar mudo;
+poster: tela cheia;
+preload (auto, metadata, none): pré-carregamento de informações;
+src: onde está o arquivo;
+width: largura.
+
+Diferentes formatos para vários navegadores:
+
+<video width="390" id="clip" controls>
+	<source src="src/chrome_japan.webm" 
+	type='video/webm; codecs="vp8, vorbis"'/>
+	<source src="src/chrome_japan.mp4"
+	type='video/mp4; codecs="avc1,42E01E,
+	mp4a,40,2"'/>
+	<source src="src/chrome_japan.ogv"
+	type='video/ogg; codecs="theora, vorbis "'/>
+
+
+-->
+
+
+
+<html>
+<head>
+	<title>Áudio</title>
+	<meta charset="UTF-8">
+</head>
+
+<body>
+ 	<header><h1>Curso de HTML </h1></header>
+	<nav></nav>
+	<section> <audio src="music.mp3" controls> </audio>
+	</section>
+	<footer></footer>
+</body>
+
+</html>
