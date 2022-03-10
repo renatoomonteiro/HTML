@@ -1,0 +1,20 @@
+<!--
+    Carregando com animação
+-->
+
+<html>
+<head> 
+<title>Barra de carregamento</title>
+<meta = charset="UTF-8">
+</head>
+<body>
+
+    <header><h1>Curso de HTML</h1></header>
+    <nav></nav>
+    <section>
+        Carregando<br>
+        <progress></progress>
+    </section>
+    <footer></footer>
+</body>
+</html>
