@@ -1,0 +1,52 @@
+<!--
+
+    Exercício 2: Filme
+
+Exercício 2: Construa uma página HTML que exiba um trecho um filme, e logo abaixo mostre um resumo sobre o filme.
+
+-->
+
+<html>
+
+<head>
+    <title>Exercício 2: Filme</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+<header>
+    <h1>Exercício 2: Filme</h1><br>
+    <h3>Exercício 2:  <br> 
+        Construa uma página HTML que exiba o trecho de um filme <br>
+        e logo abaixo mostre um resumo sobre o filme.</h3>
+</header>
+
+<section>
+
+    <p><h2>Escola Superior de Sargentos</h2></p>
+
+    <h3>Vídeo</h3>
+    <video src="ESSgt.mp4" heigth = "400" width="500" controls> </video><br>
+    <p><h4>
+        Caros irmãos de farda, é com muita alegria que vos digo: <br> 
+        É chegado o momento!!<br>
+        Depois de muita espera é com alegria que anunciamos a nossa formatura... <br>
+        E compartilhamos um pequeno trecho da nossa história!!!<br> 
+        Turma II-2020 <br><br>
+       
+       Produção foto e vídeo <br><br>
+       
+       @alberdanphotos <br><br>
+       
+       @curtavideoideias</h4><br><br>
+
+</section>
+
+<footer>
+
+</footer>
+
+</body>
+
+</html>
