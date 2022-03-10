@@ -27,7 +27,7 @@ Exercício 2: Construa uma página HTML que exiba um trecho um filme, e logo aba
     <p><h2>Escola Superior de Sargentos</h2></p>
 
     <h3>Vídeo</h3>
-    <video src="ESSgt.mp4" heigth = "400" width="500" controls> </video><br>
+    <video src="ESSgt.mp4" type="video/mp4" heigth = "400" width="500" controls> </video><br>
     <p><h4>
         Caros irmãos de farda, é com muita alegria que vos digo: <br> 
         É chegado o momento!!<br>
